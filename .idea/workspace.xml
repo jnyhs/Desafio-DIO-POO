@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7b63fe8-344b-4401-8e75-80d2b49cadc3" name="Changes" comment="addreadme.md">
-      <change afterPath="$PROJECT_DIR$/src/Desafio/Dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Desafio/Dominio/Mentoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="d7b63fe8-344b-4401-8e75-80d2b49cadc3" name="Changes" comment="mentoria e curso">
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/Dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio/Dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio/Dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio/Dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio/Dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658242001829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mentoria e curso">
+      <created>1658243551433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658243551433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstcommit" />
     <MESSAGE value="addreadme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="addreadme.md" />
+    <MESSAGE value="mentoria e curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="mentoria e curso" />
   </component>
 </project>
